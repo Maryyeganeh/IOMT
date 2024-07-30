@@ -91,4 +91,5 @@ Special thanks to the contributors and the academic community for their valuable
 
 ---
 
-*Note: This README is based on the article "Secure Blockchain Framework for Patient-Centered Healthcare IoT" by Maryam Yeaganeh.*
+*Note: This README is based on the article "Secure Blockchain Framework for Patient-Centered Healthcare IoT" by Maryam Yeaganeh.
+Goggle drives' link is : https://drive.google.com/drive/folders/1J6XyLZ1nAMBDpZ9gbNgcl3_EopeKaorJ?usp=drive_link *
